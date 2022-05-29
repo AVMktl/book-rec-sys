@@ -3,6 +3,8 @@
 
 A brief description of what this project does and who it's for
 
+## Presentation
+[Youtube link](https://www.youtube.com/watch?v=rdklwA2dxyI)
 
 ## Description
 A Book Recommendation System which recommends the users a selection of books based on their interests.
@@ -84,3 +86,5 @@ In Collaborative Filtering, we tend to find similar users and recommend what sim
 
 ![Screenshot (1292)](https://user-images.githubusercontent.com/102828957/170859880-47e3114a-cdf5-45ab-aef5-1a79a26b1a77.png)
 
+## Documentation
+[link](https://docs.google.com/document/d/1I6EbrpVH3AzW8tz2JYAEUYAsufXCpcyR6dckr4Ig3_0/edit)
