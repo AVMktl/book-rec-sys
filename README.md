@@ -1,8 +1,6 @@
 
 # AVM Book Recommender
 
-A brief description of what this project does and who it's for
-
 ## Presentation
 [Youtube link](https://www.youtube.com/watch?v=rdklwA2dxyI)
 
